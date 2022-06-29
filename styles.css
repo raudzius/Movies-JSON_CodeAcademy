@@ -1,0 +1,32 @@
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top:1rem;
+}
+
+body ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+#movieLi {
+  width: calc((100% - 1rem - 12px) / 2);
+  border: 3px solid green;
+}
+
+#headerDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#headerDiv h2 {
+  margin: 0;
+}
+
+#genresUl {
+  display: flex;
+  justify-content: space-between;
+}

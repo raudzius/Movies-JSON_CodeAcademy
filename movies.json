@@ -1,83 +1,83 @@
 [
     {
-        "Title":"Thor: Love and Thunder",
-        "User Ratings":{"rating":7.8,"votes":2000},
-        "Release year":2022,
-        "Description":"Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
-        "Genre":["Action","Adventure","Comedy"],
-        "Director":["Taika Waititi"],
-        "Stars":["Chris Hemsworth","Taika Waititi","Chris Pratt"]
+        "title":"Thor: Love and Thunder",
+        "userRating":{"rating":7.8,"votes":2000},
+        "releaseYear":2022,
+        "description":"Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
+        "genres":["Action","Adventure","Comedy"],
+        "directors":["Taika Waititi"],
+        "stars":["Chris Hemsworth","Taika Waititi","Chris Pratt"]
     },
     {
-        "Title":"The Gray Man",
-        "User Ratings":{"rating":null,"votes":0},
-        "Release year":2022,
-        "Description":"When the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
-        "Genre":["Action","Thriller"],
-        "Directors":["Anthony Russo","Joe Russo"],
-        "Stars":["Ana de Armas","Chris Evans","Ryan Gosling"]
+        "title":"The Gray Man",
+        "userRating":{"rating":null,"votes":0},
+        "releaseYear":2022,
+        "description":"When the CIA's most skilled operative-whose true identity is known to none-accidentally uncovers dark agency secrets, a psychopathic former colleague puts a bounty on his head, setting off a global manhunt by international assassins.",
+        "genres":["Action","Thriller"],
+        "directors":["Anthony Russo","Joe Russo"],
+        "stars":["Ana de Armas","Chris Evans","Ryan Gosling"]
     },
     {
-        "Title":"Hustle",
-        "User Ratings":{"rating":7.4,"votes":65000},
-        "Release year":2022,
-        "Description":"A basketball scout discovers a phenomenal street ball player while in Spain and sees the prospect as his opportunity to get back into the NBA.",
-        "Genre":["Comedy","Drama","Sport"],
-        "Directors":["Jeremiah Zagar"],
-        "Stars":["Adam Sandler","Queen Latifah","Juancho Hernangomez"]
+        "title":"Hustle",
+        "userRating":{"rating":7.4,"votes":65000},
+        "releaseYear":2022,
+        "description":"A basketball scout discovers a phenomenal street ball player while in Spain and sees the prospect as his opportunity to get back into the NBA.",
+        "genres":["Comedy","Drama","Sport"],
+        "directors":["Jeremiah Zagar"],
+        "stars":["Adam Sandler","Queen Latifah","Juancho Hernangomez"]
     },
     {
-        "Title":"Bullet Train",
-        "User Ratings":{"rating":null,"votes":0},
-        "Release year":2022,
-        "Description":"Five assassins aboard a fast moving bullet train find out their missions have something in common.",
-        "Genre":["Action","Thriller"],
-        "Directors":["David Leitch"],
-        "Stars":["Karen Fukuhara","Brad Pitt","Sandra Bullock"]
+        "title":"Bullet Train",
+        "userRating":{"rating":null,"votes":0},
+        "releaseYear":2022,
+        "description":"Five assassins aboard a fast moving bullet train find out their missions have something in common.",
+        "genres":["Action","Thriller"],
+        "directors":["David Leitch"],
+        "stars":["Karen Fukuhara","Brad Pitt","Sandra Bullock"]
     },
     {
-        "Title":"The Shawshank Redemption",
-        "User Ratings":{"rating":9.2,"votes":2600000},
-        "Release year":1994,
-        "Description":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
-        "Genre":["Drama"],
-        "Directors":["Frank Darabont"],
-        "Stars":["Tim Robbins","Morgan Freeman","Bob Gunton"]
+        "title":"The Shawshank Redemption",
+        "userRating":{"rating":9.2,"votes":2600000},
+        "releaseYear":1994,
+        "description":"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "genres":["Drama"],
+        "directors":["Frank Darabont"],
+        "stars":["Tim Robbins","Morgan Freeman","Bob Gunton"]
     },
     {
-        "Title":"The Dark Knight",
-        "User Ratings":{"rating":9.0,"votes":0},
-        "Release year":2008,
-        "Description":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
-        "Genre":["Action","Crime","Drama"],
-        "Directors":["Christopher Nolan"],
-        "Stars":["Christian Bale","Heath Ledger","Aaron Eckhart"]
+        "title":"The Dark Knight",
+        "userRating":{"rating":9.0,"votes":0},
+        "releaseYear":2008,
+        "description":"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "genres":["Action","Crime","Drama"],
+        "directors":["Christopher Nolan"],
+        "stars":["Christian Bale","Heath Ledger","Aaron Eckhart"]
     },
     {
-        "Title":"Fight Club",
-        "User Ratings":{"rating":8.8,"votes":2100000},
-        "Release year":1999,
-        "Description":"An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
-        "Genre":["Drama"],
-        "Directors":["David Fincher"],
-        "Stars":["Brad Pitt","Edward Norton","Meat Loaf"]
+        "title":"Fight Club",
+        "userRating":{"rating":8.8,"votes":2100000},
+        "releaseYear":1999,
+        "description":"An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "genres":["Drama"],
+        "directors":["David Fincher"],
+        "stars":["Brad Pitt","Edward Norton","Meat Loaf"]
     },
     {
-        "Title":"Inception",
-        "User Ratings":{"rating":8.8,"votes":2300000},
-        "Release year":2010,
-        "Description":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
-        "Genre":["Action","Adventure","Sci-Fi"],
-        "Directors":["Christopher Nolan"],
-        "Stars":["Leonardo DiCaprio","Joseph Gordon-Levitt","Elliot Page"]
+        "title":"Inception",
+        "userRating":{"rating":8.8,"votes":2300000},
+        "releaseYear":2010,
+        "description":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+        "genres":["Action","Adventure","Sci-Fi"],
+        "directors":["Christopher Nolan"],
+        "stars":["Leonardo DiCaprio","Joseph Gordon-Levitt","Elliot Page"]
     },
     {
-        "Title":"Se7en",
-        "User Ratings":{"rating":8.6,"votes":1600000},
-        "Release year":1995,
-        "Description":"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
-        "Genre":["Crime","Drama","Mystery"],
-        "Directors":["David Fincher"],
-        "Stars":["Morgan Freeman","Brad Pitt","Kevin Spacey"]
+        "title":"Se7en",
+        "userRating":{"rating":8.6,"votes":1600000},
+        "releaseYear":1995,
+        "description":"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+        "genres":["Crime","Drama","Mystery"],
+        "directors":["David Fincher"],
+        "stars":["Morgan Freeman","Brad Pitt","Kevin Spacey"]
     }
 ]
